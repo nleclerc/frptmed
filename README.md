@@ -5,7 +5,7 @@ Ce projet a pour but de créer une définition de clavier AZERTY français pour 
 
 ## Utilisation
 Cette définition de clavier est basée sur le clavier AZERTY français de base avec
-deux nouvelles combinaisons de touches :
+deux nouvelles combinaisons de touches (inspiré du clavier mac) :
 - `SHIFT`+`ALT`+`CTRL`+`F` : ·
 - `SHIFT`+`ALT`+`CTRL`+`;` : •
 
