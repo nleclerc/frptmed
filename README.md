@@ -10,9 +10,9 @@ deux nouvelles combinaisons de touches :
 - `SHIFT`+`ALT`+`CTRL`+`;` : •
 
 ## Installation
-- Téléchargez le zip de la dernière version.
+- Téléchargez le zip de la dernière version sur https://github.com/nleclerc/frptmed/releases
 - Décompressez les fichiers du zip.
-- Exécutez le fichier Setup.exe.
+- Exécutez le fichier `Setup.exe`.
 - Confirmer l'installation.
 - Changer la définition de clavier en cours en utilisant la barre de langue de Windows.
 
