@@ -17,7 +17,7 @@ deux nouvelles combinaisons de touches (inspiré du clavier mac) :
 - Changer la définition de clavier en cours en utilisant la barre de langue de Windows.
 
 ## Modification
-Pour modifier cette définition, vous devez utiliser le Microsoft Keyboard Layout Creator (MSKLC) v1.4 ou supérieur, disponible à l'adresse suivante : https://www.microsoft.com/en-us/download/details.aspx?id=102134
+Pour modifier ou compiler vous-même cette définition, vous devez utiliser le Microsoft Keyboard Layout Creator (MSKLC) v1.4 ou supérieur, disponible à l'adresse suivante : https://www.microsoft.com/en-us/download/details.aspx?id=102134
 
 ## Licence
 Le FRPTMED est disponible sous licence MIT.
